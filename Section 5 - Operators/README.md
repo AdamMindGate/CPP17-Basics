@@ -6,6 +6,8 @@
 - mulitplication and division, "\*", "/" comes third in the precedence
 - plus and minus, "+" , "-" comes after the muliplication and division
 - assignment operator, [ = , += , *= , /= ..etc] comes last in the precedence
+<h3>Precedence Table</h3>
+<img src="https://user-images.githubusercontent.com/78859273/214424518-e1b00114-a303-4d64-a1f1-a37bfc4a5362.png" width ="400px" height = "400px">
 
 ## 2.Operator Associativity
 

@@ -1,5 +1,5 @@
 #include <iostream>
-
+//AdamMindGate
 using namespace std;
 
 int main()

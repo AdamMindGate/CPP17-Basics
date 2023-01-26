@@ -1,4 +1,5 @@
 #include <iostream>
+//AdamMindGate
 
 using namespace std;
 //Problem #3: Sum numbers from 1 to N

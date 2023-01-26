@@ -1,7 +1,7 @@
 // Homework 4: Print Program Output
 
-
 #include<iostream>
+//AdamMindGate
 using namespace std;
 /*
 answer

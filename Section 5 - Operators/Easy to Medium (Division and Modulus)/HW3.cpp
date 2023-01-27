@@ -16,7 +16,11 @@ int main() {
     int c = a/b;
     b *= c;
     a -= b;
-    cout<<a;
+    cout<<a<<endl;
+
+    //short answer
+    int rem = a - (a/b) * b;
+    cout<<rem<<endl;
 
 	return 0;
 }

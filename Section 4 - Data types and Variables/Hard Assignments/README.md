@@ -25,7 +25,7 @@ if case_one = 1 , case_negative will be equal to 0 and the vise verse this way w
 ```
 
 
-## (Problem #3: Helping Notes / Informations)<br>
+## (Problem #3: Helping Notes / Resources)<br>
 
 Sum of first n natural numbers: https://youtu.be/aaFrAFZATKU
 

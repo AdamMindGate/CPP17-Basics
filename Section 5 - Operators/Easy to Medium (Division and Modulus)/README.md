@@ -1,4 +1,4 @@
-## (Problem #3: Helping Notes / Informations)<br>
+## (Problem #3: Helping Notes / Resources)<br>
 
 How to Calculate Reminder without modulus operator (%) mathematically (in-Arabic) : https://youtu.be/Dj5viFBZVXQ </br>
 

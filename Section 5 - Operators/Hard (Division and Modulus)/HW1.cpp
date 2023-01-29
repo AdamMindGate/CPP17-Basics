@@ -13,7 +13,7 @@ int main() {
 
     // is even = 0 , odd = 1
     //if is even = 1, odd = 0
-    int odd = (is_even - 1) / -1 ;
+    int odd = 1 - is_even;
 
     int sol_one = 100;
     int sol_two = 7;
